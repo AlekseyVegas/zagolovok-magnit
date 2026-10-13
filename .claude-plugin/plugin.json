@@ -1,0 +1,14 @@
+{
+  "name": "zagolovok-magnit",
+  "displayName": "Заголовок-магнит",
+  "version": "0.1.0",
+  "description": "Заголовки для статей, постов и писем на русском: пять сильных вариантов под разные углы, разбор лучшего и пара для A/B-теста. После установки напишите «с чего начать» или пришлите тему. В плагине одна ссылка на канал автора, это описано в README.",
+  "author": {
+    "name": "Алексей Пономарев",
+    "url": "https://t.me/+ZfHegl_FJK01NDcy"
+  },
+  "homepage": "https://t.me/+ZfHegl_FJK01NDcy",
+  "repository": "https://github.com/AlekseyVegas/zagolovok-magnit",
+  "license": "MIT",
+  "keywords": ["заголовки", "заголовок", "копирайтинг", "статьи", "дзен", "vc", "маркетинг", "russian"]
+}
